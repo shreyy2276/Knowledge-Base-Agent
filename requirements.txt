@@ -1,0 +1,9 @@
+streamlit>=1.20.0
+requests
+python-dotenv
+pypdf
+tqdm
+numpy
+scipy
+scikit-learn
+joblib
